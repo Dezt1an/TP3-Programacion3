@@ -1,0 +1,29 @@
+:root {
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #1e1b2e;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+}
+
+  input {
+    background-color: #2d2740;
+    color: #e0d7f7;
+    border: 1px solid #6b4f8c;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+  }
+
+  boton {
+    background-color: #2d2740;
+    color: #e0d7f7;
+    border: 1px solid #6b4f8c;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 10px;
+  }
