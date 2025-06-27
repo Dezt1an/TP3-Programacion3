@@ -1,0 +1,30 @@
+body {
+  background-color: #1d1a2c;
+  color: #e0d7f7;
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+input, select, button {
+  background-color: #2d2740;
+  color: #e0d7f7;
+  border: 1px solid #6b4f8c;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+}
+
+button:hover{
+  background-color: #6b4f8c;
+  color: #e0d7f7;
+  border: 1px solid #e0d7f7;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+}
+
+button:disabled {
+  opacity: 0.5;
+  background-color: rgb(99, 9, 9);
+}
